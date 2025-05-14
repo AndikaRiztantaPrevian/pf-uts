@@ -1,0 +1,98 @@
+/* ---- STYLING ---- */
+
+body {
+
+    background: #FAFAFA;
+
+    background: linear-gradient(172deg,rgba(250, 250, 250, 1) 0%, rgba(255, 255, 255, 1) 100%);
+
+}
+
+#container-greetings #greetings-left {
+
+    cursor: default;
+
+}
+
+#container-greetings #greetings-left h1 {
+
+    color: #080808;
+
+    letter-spacing: .1rem;
+
+}
+
+#container-greetings #greetings-left h2 {
+
+    letter-spacing: .1rem;
+
+
+}
+
+#container-about {
+
+}
+
+#container-about #more-about-me p {
+
+    letter-spacing: .1rem;
+
+}
+
+/* ---- IMPORT FONTS ---- */
+
+@font-face {
+
+    font-family: "ShareTech";
+    
+    src: url("../fonts/ShareTech-Regular.ttf");
+
+}
+
+.font-sharetech {
+
+    font-family: "ShareTech";
+
+}
+
+@font-face {
+
+    font-family: "Montserrat-Regular";
+    
+    src: url("../fonts/Montserrat-Regular.ttf");
+
+}
+
+.font-montserrat-regular {
+
+    font-family: "Montserrat-Regular";
+
+}
+
+@font-face {
+
+    font-family: "Montserrat-Bold";
+    
+    src: url("../fonts/Montserrat-Bold.ttf");
+
+}
+
+.font-montserrat-bold {
+
+    font-family: "Montserrat-Bold";
+
+}
+
+@font-face {
+
+    font-family: "Montserrat-ExtraBold";
+    
+    src: url("../fonts/Montserrat-ExtraBold.ttf");
+
+}
+
+.font-montserrat-extraBold {
+
+    font-family: "Montserrat-ExtraBold";
+
+}
